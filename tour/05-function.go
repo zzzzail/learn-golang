@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 
 	val := add(1, 2)
-	fmt.Printf("value = %d", val)
+	fmt.Printf("value is %d", val)
 
 }
 
